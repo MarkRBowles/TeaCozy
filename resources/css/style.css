@@ -95,6 +95,7 @@ footer {
 	background-image: url("../img/img-locations-background.jpg");
 	background-repeat: no-repeat;
 	padding-top: 70px;
+	margin-top: 70px;
 }
 
 #locations .content {
